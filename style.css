@@ -5,13 +5,30 @@
 
 ul{
     
-    color: rgb(rgb(37, 177, 146), green, blue);
+    color:rgb(37, 177, 146);
     font-weight: bold;
     font-size: xx-large;
+   
 }
 
 h1{
     background-color: rgb(37, 177, 146);
     text-align: center;
     font-size: 48px;
+}
+
+.whole{
+    padding:10px;
+}
+
+.one{
+    padding:10px;
+}
+
+.two{
+    padding:10px;
+}
+
+.three{
+    padding:10px;
 }
